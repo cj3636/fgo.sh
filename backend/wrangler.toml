@@ -25,3 +25,6 @@ ENCRYPTION_SECRET = "dev-encryption-secret-key"
 binding = "DB"
 database_name = "cloudpaste-db-dev"
 database_id = "xxxxxxxxxxxxxxxxx" 
+
+[observability.logs]
+enabled = true
